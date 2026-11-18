@@ -1,5 +1,6 @@
 ---
 title: Pâtisseries
+permalink: /recipes/patisseries/
 nav_order: 2
 has_children: true
 ---

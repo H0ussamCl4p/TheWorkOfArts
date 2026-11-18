@@ -1,5 +1,6 @@
 ---
 title: Accueil
+permalink: /
 nav_order: 1
 ---
 

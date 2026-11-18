@@ -1,6 +1,7 @@
 ---
 title: Nom de la recette
 parent: Pâtisseries
+permalink: /recipes/patisseries/nom-de-la-recette/
 ---
 
 # Nom de la recette

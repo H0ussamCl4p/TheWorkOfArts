@@ -1,6 +1,7 @@
 ---
 title: Kunafa à la crème d’amandes
 parent: Pâtisseries
+permalink: /recipes/patisseries/kunafa-creme-amandes/
 ---
 
 # Kunafa à la crème d’amandes
