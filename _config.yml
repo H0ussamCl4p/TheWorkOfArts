@@ -1,0 +1,16 @@
+title: TheWorkOfArts
+description: Mes recettes, rangées comme un wiki.
+lang: fr
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-remote-theme
+color_scheme: light
+search_enabled: true
+search.button: true
+heading_anchors: true
+aux_links:
+  "Voir sur GitHub":
+    - "https://github.com/H0ussamCl4p/TheWorkOfArts"
+footer_content: "Recettes de Houssam Choubik."
+exclude:
+  - templates/

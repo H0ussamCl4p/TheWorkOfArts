@@ -1,36 +1,30 @@
+---
+title: Accueil
+nav_order: 1
+---
+
 # TheWorkOfArts
 
-## **Patisseries 🍰**
+Mon carnet de recettes, rangé comme un wiki : une page par recette, toutes au même format.
 
-### Recette 1 : Kunafa à la crème d'amandes 🍰
+Version site avec recherche : [h0ussamcl4p.github.io/TheWorkOfArts](https://h0ussamcl4p.github.io/TheWorkOfArts/)
 
-#### Ingrédients 📝
-- ##### Kunafa
-- ##### Pour la crème d'amandes 🌰
-  - 80 g de beurre mou 🧈
-  - 80 g de sucre 🍬
-  - 2,75 œufs 🥚
-  - 133 g de poudre d’amande 🌿
+## Index
 
-#### Préparation de la crème d'amandes 👩‍🍳
-1. Mélangez la poudre d’amande avec les œufs. 🥄
-2. Ajoutez le sucre et le beurre mou. 🍶
-3. Incorporez l'extrait d'amande amère (facultatif). ✨
-4. Mélangez bien jusqu'à l'obtention d'une texture homogène. 💪
+### Pâtisseries
 
-#### Assemblage de la Kunafa 🛠️
-- Remplir la kunafa avec la crème d'amandes.
+| Recette | Difficulté | Photo |
+|---|---|---|
+| [Kunafa à la crème d’amandes](recipes/patisseries/kunafa-creme-amandes/) | Facile | Oui |
 
-#### La cuisson 🔥
-- Mettre la préparation au four et cuire jusqu'à ce que la crème devienne ferme. ⏳
+### Salé
 
----
+Pas encore de recette.
 
-## Salé 🍽️
-(Partie salée à ajouter ici si nécessaire)
+## Ajouter une recette
 
-# Bonne dégustation ! 😋
+1. Copier [`templates/recette.md`](templates/recette.md) dans `recipes/<catégorie>/<nom-de-la-recette>/README.md`.
+2. Ajouter la photo à côté, sous le nom `photo.jpeg`.
+3. Ajouter une ligne dans l’index ci-dessus.
 
----
-
-# **Made with ❤️ by Choubik Houssam**
+Noms de dossiers en minuscules, sans accents ni espaces (`tarte-au-citron`).
