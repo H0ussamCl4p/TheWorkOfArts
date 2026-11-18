@@ -6,7 +6,9 @@ permalink: /recipes/patisseries/nom-de-la-recette/
 
 # Nom de la recette
 
-<img src="photo.jpeg" alt="Nom de la recette" width="360">
+<p align="center">
+  <img src="photo.jpeg" alt="Nom de la recette" width="220">
+</p>
 
 | Catégorie | Portions | Préparation | Cuisson | Difficulté |
 |---|---|---|---|---|

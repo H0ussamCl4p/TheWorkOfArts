@@ -6,7 +6,9 @@ permalink: /recipes/patisseries/kunafa-creme-amandes/
 
 # Kunafa à la crème d’amandes
 
-<img src="photo.jpeg" alt="Kunafa à la crème d’amandes" width="360">
+<p align="center">
+  <img src="photo.jpeg" alt="Kunafa à la crème d’amandes" width="220">
+</p>
 
 | Catégorie | Difficulté | Cuisson |
 |---|---|---|
